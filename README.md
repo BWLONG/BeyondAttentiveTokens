@@ -1,6 +1,5 @@
-# Supplementary Materials
+# BAT
 
-> Submitted CVPR paper **9152**
 > **Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers**
 
 This work propose a simple yet effective decoupling and merging method that can simultaneously preserve the most attentive local tokens and diverse global semantics without imposing extra parameters.
