@@ -5,7 +5,7 @@
 This work propose a simple yet effective decoupling and merging method that can simultaneously preserve the most attentive local tokens and diverse global semantics without imposing extra parameters.
 To the best of our knowledge, this work is the first to emphasize the token diversity for pruning ViT. We also demonstrate its cruciality through numerical and empirical analysis. 
 
-![intro](imgs/method.png)
+![intro](method.png)
 
 # Preparation
 
@@ -47,7 +47,7 @@ We provide our models pretrained on ImageNet 2012.
 ## Visualization
 The visualization code is modified from [EViT]( https://github.com/youweiliang/evit).
 
-![intro](imgs/result.png)
+![intro](result.png)
 
 # License
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
